@@ -3,7 +3,7 @@
  * Copyright 2017 - 2017 Aécio Santos
  * Licensed under MIT (https://github.com/aecio/julianaeaecio/blob/gh-pages/LICENSE)
  */
-@import url('https://fonts.googleapis.com/css?family=Alex+Brush');
+@import url('//fonts.googleapis.com/css?family=Monsieur+La+Doulaise');
 h1,
 .h1 {
   font-size: 46px;
@@ -47,7 +47,7 @@ h5,
 h6 {
   margin: 0 0 35px;
   text-transform: capitalize;
-  font-family: 'Alex Brush', myriad-pro, sans-serif, Helvetica Neue, Helvetica;
+  font-family: 'Monsieur La Doulaise', myriad-pro, sans-serif, Helvetica Neue, Helvetica;
   font-weight: 700;
   letter-spacing: 1px;
 }
@@ -183,7 +183,7 @@ a:focus {
   padding: 100px 0;
   text-align: center;
   color: white;
-  background: url(../img/main.jpeg) no-repeat bottom center scroll;
+  background-image: url(../img/main.jpeg);
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -197,11 +197,11 @@ a:focus {
 }
 .intro .intro-body .brand-heading {
   font-size: 40px;
-  font-family: 'Alex Brush', myriad-pro, sans-serif, Helvetica Neue, Helvetica;
+  font-family: 'Monsieur La Doulaise', myriad-pro, sans-serif, Helvetica Neue, Helvetica;
 }
 .intro .intro-body .intro-text {
   font-size: 18px;
-  font-family: 'Alex Brush', myriad-pro, sans-serif, Helvetica Neue, Helvetica;
+  font-family: 'Monsieur La Doulaise', myriad-pro, sans-serif, Helvetica Neue, Helvetica;
 }
 @media (min-width: 768px) {
   .intro {
@@ -287,7 +287,7 @@ a:focus {
   width: 100%;
   padding: 50px 0;
   color: #000;
-  background: url(../img/bonrepos_cropped.jpeg) no-repeat center center scroll;
+  background-image: url(../img/bonrepos_cropped.jpeg);
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
